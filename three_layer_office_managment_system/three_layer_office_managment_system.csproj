@@ -80,6 +80,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\BuisnessLayer\BuisnessLayer.csproj">
+      <Project>{c974655d-9cd7-4f68-86e8-6f686e9a52c3}</Project>
+      <Name>BuisnessLayer</Name>
+    </ProjectReference>
     <ProjectReference Include="..\prjProps\prjProps.csproj">
       <Project>{dba75199-3c4d-4000-a3d8-9af3b0e5ddb3}</Project>
       <Name>prjProps</Name>

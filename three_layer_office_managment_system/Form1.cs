@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using prjProps;
+using BuisnessLayer;
 namespace three_layer_office_managment_system
 {
     public partial class Form1 : Form
@@ -29,6 +30,11 @@ namespace three_layer_office_managment_system
 
         private void btn_insert_Click(object sender, EventArgs e)
         {
+
+            try
+            {
+
+           
             EmpProps p = new EmpProps();
            
            
@@ -40,6 +46,20 @@ namespace three_layer_office_managment_system
             Console.WriteLine(p.Emp_name);
             Console.WriteLine(p.Emp_cell);
             Console.WriteLine(p.Emp_address);
+            EmpBLL a =new EmpBLL();
+           if(a.empInsert(p))
+            {
+                MessageBox.Show("inserted ");
+            }
+           
+            else{
+                MessageBox.Show("failed  ");
+            }
+            }
+            catch(Exception ex)
+            {
+                MessageBox.Show("error"+ex);
+            }
 
 
 
