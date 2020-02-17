@@ -9,7 +9,7 @@ namespace prjProps
     public class EmpProps
     {
 
-        private String emp_code;
+        private String emp_id;
         private String emp_name;
         private String emp_cell;
         private String emp_address;
@@ -17,12 +17,12 @@ namespace prjProps
         {
             get
             {
-                return emp_code;
+                return emp_id;
             }
 
             set
             {
-                emp_code = value;
+                emp_id = value;
             }
         }
 

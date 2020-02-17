@@ -44,6 +44,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\DataLayer\DataLayer.csproj">
+      <Project>{5a5a8c24-b219-4369-9fe2-8bb9ab78ba72}</Project>
+      <Name>DataLayer</Name>
+    </ProjectReference>
     <ProjectReference Include="..\prjProps\prjProps.csproj">
       <Project>{dba75199-3c4d-4000-a3d8-9af3b0e5ddb3}</Project>
       <Name>prjProps</Name>

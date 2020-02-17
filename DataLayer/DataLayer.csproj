@@ -30,6 +30,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="MySql.Data, Version=8.0.19.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Web, Version=8.0.19.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -46,17 +48,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\BuisnessLayer\BuisnessLayer.csproj">
-      <Project>{c974655d-9cd7-4f68-86e8-6f686e9a52c3}</Project>
-      <Name>BuisnessLayer</Name>
-    </ProjectReference>
     <ProjectReference Include="..\prjProps\prjProps.csproj">
       <Project>{dba75199-3c4d-4000-a3d8-9af3b0e5ddb3}</Project>
       <Name>prjProps</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\three_layer_office_managment_system\three_layer_office_managment_system.csproj">
-      <Project>{833b810b-3689-4c7f-9384-10b011e6e0be}</Project>
-      <Name>three_layer_office_managment_system</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

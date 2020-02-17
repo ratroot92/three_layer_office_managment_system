@@ -47,7 +47,7 @@ namespace three_layer_office_managment_system
             Console.WriteLine(p.Emp_cell);
             Console.WriteLine(p.Emp_address);
             EmpBLL a =new EmpBLL();
-           if(a.empInsert(p))
+           if(a.empInsertBLL(p))
             {
                 MessageBox.Show("inserted ");
             }

@@ -12,11 +12,12 @@ namespace DataLayer
         
         public bool emp_insertDAL(EmpProps p)
         {
-
-
-            MySqlCommmand cmd = new MySqlCommmand();
-            string sql="INSERT INTO emp (emp,name,code,address), values ()"
-            return true;
+            connedctionMYSQL obj_conn = new connedctionMYSQL();
+            obj_conn.DbOpen();
+            string qry = "INSERT INTO employee (id,name,cell,address) VAlUES(" + p.Emp_code + ",'" + p.Emp_name + "'," + p.Emp_cell + ",'" + p.Emp_address + "')";
+            bool status = obj_conn.UDI(qry);
+            obj_conn.DbClose();
+            return status;
         }
     }
 }

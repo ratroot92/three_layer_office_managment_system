@@ -4,16 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using prjProps;
+using DataLayer;
 namespace BuisnessLayer
 {
     public class EmpBLL
     {
 
-        public bool empInsert(EmpProps p)
+        public bool empInsertBLL(EmpProps p)
         {
+            EmpDAL obj = new EmpDAL();
+           bool status = obj.emp_insertDAL(p);
 
-
-            return true;
+            return status;
         }
     }
 }

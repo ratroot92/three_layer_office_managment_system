@@ -9,11 +9,11 @@ namespace DataLayer
 {
     class connectionSQL
     {
-       public   string conn_string = '';
+          String conn_string = "Data Source=DESKTOP-B76AD6N/SQLEXPRESS;Initial Catalog=c_sharp;Integrated Security=True";
 
         SqlConnection conn;
 
-        public SqlConnection db_start(string conn_string)
+        public SqlConnection db_start()
         {
             conn = new SqlConnection(conn_string);
             conn.Open();
@@ -26,11 +26,10 @@ namespace DataLayer
             return true; 
         }
 
-        public bool UDI(string qry, string conn_string)
+        public bool UDI(string qry)
         {
-           conn=db_start(conn_string);
-            SqlCommand cmd = new SqlCommand(qry, conn);
-            int rows_affected = cmd.ExecuteNonQuery();\
+            SqlCommand cmd = new SqlCommand(qry,conn);
+            int rows_affected = cmd.ExecuteNonQuery();
             if (rows_affected>0)
             {
                 return true;
@@ -44,10 +43,7 @@ namespace DataLayer
         }
 
 
-        public DataTable getDatatable(string qry,conn)
-        {
-
-        }
+       
       
 
     }
