@@ -11,9 +11,9 @@ using prjProps;
 using BuisnessLayer;
 namespace three_layer_office_managment_system
 {
-    public partial class Form1 : Form
+    public partial class EmployeeForm : Form
     {
-        public Form1()
+        public EmployeeForm()
         {
             InitializeComponent();
         }
