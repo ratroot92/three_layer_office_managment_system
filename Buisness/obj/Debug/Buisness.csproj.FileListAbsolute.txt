@@ -1,0 +1,11 @@
+C:\Users\RAPIDEV\source\repos\Buisness\obj\Debug\Buisness.csproj.CoreCompileInputs.cache
+C:\Users\RAPIDEV\source\repos\Buisness\obj\Debug\Buisness.csprojAssemblyReference.cache
+C:\Users\RAPIDEV\source\repos\Buisness\bin\Debug\Buisness.dll
+C:\Users\RAPIDEV\source\repos\Buisness\bin\Debug\Buisness.pdb
+C:\Users\RAPIDEV\source\repos\Buisness\bin\Debug\Data.dll
+C:\Users\RAPIDEV\source\repos\Buisness\bin\Debug\Props.dll
+C:\Users\RAPIDEV\source\repos\Buisness\bin\Debug\Data.pdb
+C:\Users\RAPIDEV\source\repos\Buisness\bin\Debug\Props.pdb
+C:\Users\RAPIDEV\source\repos\Buisness\obj\Debug\Buisness.csproj.CopyComplete
+C:\Users\RAPIDEV\source\repos\Buisness\obj\Debug\Buisness.dll
+C:\Users\RAPIDEV\source\repos\Buisness\obj\Debug\Buisness.pdb

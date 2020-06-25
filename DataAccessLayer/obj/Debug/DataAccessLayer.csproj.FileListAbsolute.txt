@@ -1,0 +1,9 @@
+C:\Users\RAPIDEV\source\repos\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\RAPIDEV\source\repos\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\RAPIDEV\source\repos\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\RAPIDEV\source\repos\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\RAPIDEV\source\repos\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\RAPIDEV\source\repos\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\RAPIDEV\source\repos\DataAccessLayer\bin\Debug\PrjProps.dll
+C:\Users\RAPIDEV\source\repos\DataAccessLayer\bin\Debug\PrjProps.pdb
+C:\Users\RAPIDEV\source\repos\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete

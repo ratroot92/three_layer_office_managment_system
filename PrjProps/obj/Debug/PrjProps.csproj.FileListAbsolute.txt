@@ -1,0 +1,6 @@
+C:\Users\RAPIDEV\source\repos\PrjProps\bin\Debug\PrjProps.dll
+C:\Users\RAPIDEV\source\repos\PrjProps\bin\Debug\PrjProps.pdb
+C:\Users\RAPIDEV\source\repos\PrjProps\obj\Debug\PrjProps.csproj.CoreCompileInputs.cache
+C:\Users\RAPIDEV\source\repos\PrjProps\obj\Debug\PrjProps.dll
+C:\Users\RAPIDEV\source\repos\PrjProps\obj\Debug\PrjProps.pdb
+C:\Users\RAPIDEV\source\repos\PrjProps\obj\Debug\PrjProps.csprojAssemblyReference.cache

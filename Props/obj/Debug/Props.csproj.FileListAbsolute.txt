@@ -1,0 +1,5 @@
+C:\Users\RAPIDEV\source\repos\Props\bin\Debug\Props.dll
+C:\Users\RAPIDEV\source\repos\Props\bin\Debug\Props.pdb
+C:\Users\RAPIDEV\source\repos\Props\obj\Debug\Props.csproj.CoreCompileInputs.cache
+C:\Users\RAPIDEV\source\repos\Props\obj\Debug\Props.dll
+C:\Users\RAPIDEV\source\repos\Props\obj\Debug\Props.pdb

@@ -1,0 +1,11 @@
+C:\Users\RAPIDEV\source\repos\Business Layer\bin\Debug\Business Layer.dll
+C:\Users\RAPIDEV\source\repos\Business Layer\bin\Debug\Business Layer.pdb
+C:\Users\RAPIDEV\source\repos\Business Layer\bin\Debug\DataAccessLayer.dll
+C:\Users\RAPIDEV\source\repos\Business Layer\bin\Debug\PrjProps.dll
+C:\Users\RAPIDEV\source\repos\Business Layer\bin\Debug\DataAccessLayer.pdb
+C:\Users\RAPIDEV\source\repos\Business Layer\bin\Debug\PrjProps.pdb
+C:\Users\RAPIDEV\source\repos\Business Layer\obj\Debug\Business_Layer.csprojAssemblyReference.cache
+C:\Users\RAPIDEV\source\repos\Business Layer\obj\Debug\Business_Layer.csproj.CoreCompileInputs.cache
+C:\Users\RAPIDEV\source\repos\Business Layer\obj\Debug\Business_Layer.csproj.CopyComplete
+C:\Users\RAPIDEV\source\repos\Business Layer\obj\Debug\Business Layer.dll
+C:\Users\RAPIDEV\source\repos\Business Layer\obj\Debug\Business Layer.pdb
